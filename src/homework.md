@@ -1,0 +1,11 @@
+- create a repository,
+- inititialize the repository
+- node_modules, package.json, package-lock.json.
+- install express
+- create a server
+- listen to port 7777
+- Make request handlers for /test, /hello
+- install nodemon and udpate scripts inside package.json.
+- diff between caret and tilt in package.json
+- what are dependencies, use of -g while npm install
+- 
