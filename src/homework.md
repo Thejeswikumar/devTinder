@@ -9,3 +9,17 @@
 - diff between caret and tilt in package.json
 - what are dependencies, use of -g while npm install
 - 
+
+- what is Middleware and how express js handles request behind the scenes.
+- what is the use and difference of app.use and app.all 
+- what is a Middleware ? why do we need it ?
+- 
+
+- create a free cluster on mongodb official website(mongo Atlas)
+- Instal Mongoose library
+- connect app to the database  "connection-url"/devTinder
+- call the connectDb funcation and connect to databaes before starting aplication on 7777
+- 
+- Create a User Schema
+- difference between Js object and JSON.
+- 
